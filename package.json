@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "ecstatic": "^4.1.4",
+    "redis": "^4.6.8",
     "ws": "^8.14.1"
   }
 }
