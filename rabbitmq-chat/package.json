@@ -1,0 +1,14 @@
+{
+  "name": "rabbitmq-chat",
+  "version": "1.0.0",
+  "description": "rabbitmq chat app exploit amqp feature",
+  "main": "app.js",
+  "author": "neithan",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "ecstatic": "^4.1.4",
+    "sqlite3": "^5.1.6",
+    "ws": "^8.14.1"
+  }
+}
