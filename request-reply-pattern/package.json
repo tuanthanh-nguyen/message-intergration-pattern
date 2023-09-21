@@ -1,0 +1,11 @@
+{
+  "name": "request-reply-pattern",
+  "version": "1.0.0",
+  "description": "demonstrate request reply pattern in messaging intergration system",
+  "main": "app.js",
+  "author": "neithan",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
